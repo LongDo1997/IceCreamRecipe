@@ -1,0 +1,306 @@
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+E:\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+E:\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+E:\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+E:\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+E:\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+E:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\WebApplication1\WebApplication1\bin\EntityFramework.dll
+E:\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\WebApplication1\WebApplication1\bin\EntityFramework.xml
+E:\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.v1.resources
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.v2.resources
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Win32.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\netstandard.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.AppContext.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Collections.Concurrent.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Collections.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Collections.NonGeneric.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Collections.Specialized.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.ComponentModel.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.ComponentModel.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.ComponentModel.TypeConverter.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Console.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Data.Common.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.Contracts.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.Debug.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.Process.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.StackTrace.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.Tools.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.TraceSource.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.Tracing.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Drawing.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Dynamic.Runtime.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Globalization.Calendars.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Globalization.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Globalization.Extensions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.Compression.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.Compression.ZipFile.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.FileSystem.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.FileSystem.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.FileSystem.Watcher.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.IsolatedStorage.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.MemoryMappedFiles.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.Pipes.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Linq.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Linq.Expressions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Linq.Parallel.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Linq.Queryable.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.Http.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.NameResolution.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.NetworkInformation.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.Ping.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.Requests.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.Security.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.Sockets.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.WebHeaderCollection.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.WebSockets.Client.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Net.WebSockets.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.ObjectModel.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Reflection.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Reflection.Extensions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Reflection.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Resources.Reader.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Resources.ResourceManager.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Resources.Writer.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.Extensions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.Handles.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.InteropServices.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.Numerics.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.Serialization.Formatters.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.Serialization.Json.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.Serialization.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.Serialization.Xml.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.Claims.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.Cryptography.Algorithms.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.Cryptography.Csp.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.Cryptography.Encoding.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.Cryptography.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.Principal.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Security.SecureString.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Text.Encoding.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Text.Encoding.Extensions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Text.RegularExpressions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.Overlapped.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.Tasks.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Parallel.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.Thread.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.ThreadPool.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.Timer.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.ValueTuple.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Xml.ReaderWriter.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Xml.XDocument.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Xml.XmlDocument.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Xml.XmlSerializer.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Xml.XPath.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Xml.XPath.XDocument.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Bcl.HashCode.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.EntityFrameworkCore.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Configuration.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Buffers.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Collections.Immutable.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.ComponentModel.Annotations.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Memory.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Bcl.HashCode.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.EntityFrameworkCore.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Configuration.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Options.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.Extensions.Primitives.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Buffers.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Collections.Immutable.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Memory.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Numerics.Vectors.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations._1.resources
+D:\Tai lieu\C#\workspace\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache

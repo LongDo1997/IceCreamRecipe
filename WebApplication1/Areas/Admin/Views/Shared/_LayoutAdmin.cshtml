@@ -1,0 +1,253 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<!-- Mirrored from demo.dashboardpack.com/user-management-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Sep 2022 00:53:14 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Management Admin</title>
+    <link rel="icon" href="img/mini_logo.png" type="image/png">
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/css/bootstrap1.min.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/themefy_icon/themify-icons.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/niceselect/css/nice-select.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/owl_carousel/css/owl.carousel.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/gijgo/gijgo.min.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/font_awesome/css/all.min.css" />
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/tagsinput/tagsinput.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/datepicker/date-picker.css" />
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/vectormap-home/vectormap-2.0.2.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/scroll/scrollable.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/datatable/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/datatable/css/responsive.dataTables.min.css" />
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/datatable/css/buttons.dataTables.min.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/text_editor/summernote-bs4.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/morris/morris.css">
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/vendors/material_icon/material-icons.css" />
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/css/metisMenu.css">
+
+    <link rel="stylesheet" href="/Areas/Admin/Content/css/style1.css" />
+    <link rel="stylesheet" href="/Areas/Admin/Content/css/colors/default.css" id="colorSkinCSS">
+</head>
+
+<body class="crm_body_bg">
+
+
+    <nav class="sidebar">
+        <div class="logo d-flex justify-content-between">
+            <a class="large_logo" href="index.html"><img src="/Areas/Admin/Content/img/logo.png" alt=""></a>
+            <a class="small_logo" href="index.html"><img src="/Areas/Admin/Content/img/mini_logo.png" alt=""></a>
+            <div class="sidebar_close_icon d-lg-none">
+                <i class="ti-close"></i>
+            </div>
+        </div>
+        <ul id="sidebar_menu">
+            <li class="">
+                <a class="has-arrow" href="#" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/dashboard.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>User Management </span>
+                    </div>
+                </a>
+                <ul>
+                    <li>@Html.ActionLink("Category", "Index", "Categories")</li>
+                    <li><a >@Html.ActionLink("Book", "Index", "Books")</a></li>
+                    <li><a >@Html.ActionLink("Publisher", "Index", "Publishers")</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <a class="has-arrow" href="#" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/2.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>Application </span>
+                    </div>
+                </a>
+                <ul>
+                    <li><a href="editor.html">editor</a></li>
+                    <li><a href="mail_box.html">Mail Box</a></li>
+                    <li><a href="chat.html">Chat</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <a class="has-arrow" href="#" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/3.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>Pages</span>
+                    </div>
+                </a>
+                <ul>
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="resister.html">Register</a></li>
+                    <li><a href="error_400.html">Error 404</a></li>
+                    <li><a href="error_500.html">Error 500</a></li>
+                    <li><a href="forgot_pass.html">Forgot Password</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <a class="has-arrow" href="#" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/4.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>Admins</span>
+                    </div>
+                </a>
+                <ul>
+                    <li><a href="admin_list.html">Admin List</a></li>
+                    <li><a href="add_new_admin.html">Add New Admin</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <a class="has-arrow" href="#" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/11.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>Role & Permissions</span>
+                    </div>
+                </a>
+                <ul>
+                    <li><a href="module_setting.html">Module Setting</a></li>
+                    <li><a href="role_permissions.html">Role & Permissions</a></li>
+                </ul>
+            </li>
+            <li class="">
+                <a href="navs.html" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/12.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>Navs</span>
+                    </div>
+                </a>
+            </li>
+            <li class="">
+                <a class="has-arrow" href="#" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/5.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>Users</span>
+                    </div>
+                </a>
+                <ul>
+                    <li><a href="user_list.html">Users List</a></li>
+                    <li><a href="add_new_user.html">Add New User</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="Builder.html" aria-expanded="false">
+                    <div class="nav_icon_small">
+                        <img src="/Areas/Admin/Content/img/menu-icon/6.svg" alt="">
+                    </div>
+                    <div class="nav_title">
+                        <span>Builder </span>
+                    </div>
+                </a>
+            </li>
+            
+        </ul>
+    </nav>
+
+    <section class="main_content dashboard_part large_header_bg">
+        @RenderBody()
+    </section>
+
+    <div id="back-top" style="display: none;">
+        <a title="Go to Top" href="#">
+            <i class="ti-angle-up"></i>
+        </a>
+    </div>
+
+    <script src="/Areas/Admin/Content/js/jquery1-3.4.1.min.js"></script>
+
+    <script src="/Areas/Admin/Content/js/popper1.min.js"></script>
+
+    <script src="/Areas/Admin/Content/js/bootstrap1.min.js"></script>
+
+    <script src="/Areas/Admin/Content/js/metisMenu.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/count_up/jquery.waypoints.min.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/chartlist/Chart.min.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/count_up/jquery.counterup.min.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/niceselect/js/jquery.nice-select.min.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/owl_carousel/js/owl.carousel.min.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/datatable/js/jquery.dataTables.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/dataTables.responsive.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/dataTables.buttons.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/buttons.flash.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/jszip.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/pdfmake.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/vfs_fonts.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/buttons.html5.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datatable/js/buttons.print.min.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/datepicker/datepicker.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datepicker/datepicker.en.js"></script>
+    <script src="/Areas/Admin/Content/vendors/datepicker/datepicker.custom.js"></script>
+    <script src="/Areas/Admin/Content/js/chart.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/chartjs/roundedBar.min.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/progressbar/jquery.barfiller.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/tagsinput/tagsinput.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/text_editor/summernote-bs4.js"></script>
+    <script src="/Areas/Admin/Content/vendors/am_chart/amcharts.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/scroll/perfect-scrollbar.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/scroll/scrollable-custom.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/vectormap-home/vectormap-2.0.2.min.js"></script>
+    <script src="/Areas/Admin/Content/vendors/vectormap-home/vectormap-world-mill-en.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/apex_chart/apex-chart2.js"></script>
+    <script src="/Areas/Admin/Content/vendors/apex_chart/apex_dashboard.js"></script>
+
+    <script src="/Areas/Admin/Content/vendors/chart_am/core.js"></script>
+    <script src="/Areas/Admin/Content/vendors/chart_am/charts.js"></script>
+    <script src="/Areas/Admin/Content/vendors/chart_am/animated.js"></script>
+    <script src="/Areas/Admin/Content/vendors/chart_am/kelly.js"></script>
+    <script src="/Areas/Admin/Content/vendors/chart_am/chart-custom.js"></script>
+
+    <script src="/Areas/Admin/Content/js/dashboard_init.js"></script>
+    <script src="/Areas/Admin/Content/js/custom.js"></script>
+</body>
+
+<!-- Mirrored from demo.dashboardpack.com/user-management-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Sep 2022 00:54:05 GMT -->
+
+</html>
+
